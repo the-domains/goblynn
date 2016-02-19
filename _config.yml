@@ -1,0 +1,28 @@
+name: goblynn
+favicon: null
+layout_spectrum: 0.1483414249960333
+typography_spectrum: 0.5708399310242385
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.8416822047438473
+  lightness: 0.08285794802941382
+  saturation: 0.24820826249197125
+  rhythmicContrast: 0.37189908139407635
+purpose: []
